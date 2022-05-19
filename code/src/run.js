@@ -6,8 +6,8 @@
     // Constantes
     const VERSION = 4;
     const EVENTO = 'biz176';
-    const NUM_FECHA = 2;
-    const TIPO_TICKET_ID_MIN = 10;
+    const NUM_FECHA = 1;
+    const TIPO_TICKET_ID_MIN = 1;
     const TIPO_TICKET_ID_MAX = 12;
     const BASE_FETCH_PARAMS = {
       headers: { "content-type": "application/json" },
