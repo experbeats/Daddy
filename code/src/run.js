@@ -5,7 +5,7 @@
   {
     // Constantes
     const VERSION = 4;
-    const EVENTO = 'biz176';
+    const EVENTO = 'biz188';
     const NUM_FECHA = 1;
     const TIPO_TICKET_ID_MIN = 1;
     const TIPO_TICKET_ID_MAX = 12;
